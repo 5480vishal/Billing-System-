@@ -1,0 +1,8 @@
+
+Bill No.: 6419385
+------------------------------------------------------------------------
+Name: samosa	Quantity: 3	Price: 30
+Name: Bread	Quantity: 4	Price: 72
+Name: sos	Quantity: 5	Price: 10
+Name: Colddrink	Quantity: 5	Price: 50
+------------------------------------------------------------------------
