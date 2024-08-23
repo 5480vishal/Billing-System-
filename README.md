@@ -4,8 +4,8 @@ A basic console-based bill generation system developed in C++. This project focu
 
 <b>Features</b>
 <br>
-Add Items: Enter item name, quantity, and price.
+<b>Add Items:</b> Enter item name, quantity, and price.
 <br>
-Calculate Total: Automatically calculate the total amount based on entered items.
+<b>Calculate Total: </b>Automatically calculate the total amount based on entered items.
 <br>
-Generate Bill: Display a detailed bill showing itemized costs and the final total.
+<b>Generate Bill: </b>Display a detailed bill showing itemized costs and the final total.
