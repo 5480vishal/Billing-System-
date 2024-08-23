@@ -1,6 +1,7 @@
 # Billing-System-
 
 A basic console-based bill generation system developed in C++. This project focuses on generating customer bills for small businesses, allowing users to easily add items and calculate total amounts.<br>
+
 <b>Features</b>
 <br>
 Add Items: Enter item name, quantity, and price.
