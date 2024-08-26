@@ -9,3 +9,5 @@ A basic console-based bill generation system developed in C++. This project focu
 <b>Calculate Total: </b>Automatically calculate the total amount based on entered items.
 <br>
 <b>Generate Bill: </b>Display a detailed bill showing itemized costs and the final total.
+<br>
+Note: password is : Cid 
